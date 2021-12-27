@@ -1,11 +1,11 @@
 {
-  "prefix": "",
-  "token": "",
+  "prefix": "gtb!",
+  "token": "OTI0ODY2MTA0OTczNzIxNjAx.Yckyrg.h5ZUvOPiIiyDMe-My_uaAGXy-rQ",
   "secret_channels": "",
   "role_id": "",
   "user_id": "",
   "delay": "",
-  "world_folder": "Path/to/world_folder",
-  "player_folder": "Path/to/player_folder",
-  "gtps_folder": "Path/to/gtps_folder"
+  "world_folder": "Path/save/worlds",
+  "player_folder": "Path/save/players",
+  "gtps_folder": "Path/Server Core/save"
 }
